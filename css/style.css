@@ -19,7 +19,7 @@ body {
   background-color: #F2F2F2;
   position: absolute;
   width: 375px;
-  height: 540px;
+  height: 590px;
   opacity: 0.87;
   box-shadow: 0px 10px 11px -7px rgba(0,0,0,0.2);
 }
@@ -108,12 +108,12 @@ ul {
   padding-right: -10px;
   font-size: 15px;
   border-bottom: 1.5px solid #E0E0E0;
-  padding-bottom: 12px;
-  padding-top: 8.5px;
+  padding-bottom: 9px;
+  padding-top: 4px;
 }
 
 .first {
-  margin-top: 113px;
+  margin-top: 112px;
 }
 
 li {
@@ -165,23 +165,19 @@ li {
   width: 39px;
   height: 3.3px;
   margin: auto;
-  margin-top: 3.7%;
+  margin-top: 4.2%;
   border-radius: 5px;
   background-color: #BDBDBD;
 }
 
 .small {
-  font-size: 11px;
+  font-size: 10pt;
   margin-left: 2%;
   color: red;
 }
 
 .repeat_time {
   font-size: 13px;
-}
-
-.expperiment {
-  display:;
 }
 
 .icon {
